@@ -1,4 +1,4 @@
 
 
 #!/bin/sh
-echo "Hello world, this is example qkjjgain"
+echo "Hello world, this is examplesss qkjjgain"
